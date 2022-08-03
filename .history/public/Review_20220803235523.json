@@ -1,0 +1,49 @@
+[
+    {
+        "name": "jhonson",
+        "ratting": 0.4,
+        "Pic": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXBwbGUlMjBsYXB0b3B8ZW58MHx8MHx8&w=1000&q=80",
+        "feedback": "user feedback"
+    },
+    
+    {
+        "name": "peacker",
+        "ratting": 0.3,
+        "Pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8sD4_CJVnF24vCpRQLUiITT89x7ZHH6WOH2YZZfGEmi3tLdqUxiM808rUWZ6AlAwaIj4&usqp=CAU",
+        "feedback": "user feedback"
+    },
+    
+    {
+        "name": "kim",
+        "ratting": 0.5,
+        "Pic": "241",
+        "feedback": "user feedback"
+    },
+    
+    {
+        "name": "herry",
+        "ratting": 0.2,
+        "Pic": 241,
+        "feedback": "user feedback"
+    },
+    
+    {
+        "name": "mishell",
+        "ratting": 0.1,
+        "Pic": 241,
+        "feedback": "user feedback"
+    },
+    
+    {
+        "name": "jhonson",
+        "ratting": 0.4,
+        "Pic": 241,
+        "feedback": "user feedback"
+    }
+    
+]
+
+
+
+
+
